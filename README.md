@@ -1,6 +1,9 @@
 # Head-First-Design-Patterns Summary
 
 Here, I will be summarizing each chapter of the [book](https://www.oreilly.com/library/view/head-first-design/9781492077992/) explaining the key concepts that I've learnt and creating samples of code to better understand the patterns.
+<br>
+You may notice a better way to explain the problem or the solution, feel free to create a pr and change it
+
 ## Introduction
 * Before we start, I want to talk about what design patterns are?
     - Design patterns are reusable solution for a commonly occurring problem in software development, that solution had been passed through many software developers till it reached to us, so it's quality is verified.
@@ -21,7 +24,7 @@ Here, I will be summarizing each chapter of the [book](https://www.oreilly.com/l
 * In that repo, the main goal is to talk about the patterns in the [book](https://www.oreilly.com/library/view/head-first-design/9781492077992/), maybe in the future I will expand that repo to include more patterns.
 
 ## Patterns Covered
-1. The Strategy Pattern
+1. [The Strategy Pattern](./The%20Strategy%20Pattern/README.md)
 2. The Observer Pattern
 3. The Decorator Pattern
 4. The Factory Pattern
