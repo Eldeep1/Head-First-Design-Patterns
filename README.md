@@ -25,7 +25,7 @@ You may notice a better way to explain the problem or the solution, feel free to
 
 ## Patterns Covered
 1. [The Strategy Pattern](./The%20Strategy%20Pattern/README.md)
-2. The Observer Pattern
+2. [The Observer Pattern](./The%20Observer%20Pattern/README.md)
 3. The Decorator Pattern
 4. The Factory Pattern
 5. The Singleton Pattern
